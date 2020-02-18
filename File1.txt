@@ -7,3 +7,5 @@ Change: For login feature
 
 Change : To fix bug 1
 Change : To fix bug 2
+
+Changes for file2
